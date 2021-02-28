@@ -1,0 +1,36 @@
+[INFO ] 2021-02-27 15:58:22.868 [main] Suite - ********Suite Started********
+[INFO ] 2021-02-27 15:58:23.039 [main] verifyContributeTest - ********Started*******
+[INFO ] 2021-02-27 15:58:23.039 [main] verifyContributeTest - ********Started*******
+[INFO ] 2021-02-27 15:58:53.358 [main] verifyContributeTest - Configuration file to be loaded
+[INFO ] 2021-02-27 15:58:53.358 [main] verifyContributeTest - Configuration file to be loaded
+[INFO ] 2021-02-27 15:58:53.358 [main] verifyContributeTest - Configuration file is loaded
+[INFO ] 2021-02-27 15:58:53.358 [main] verifyContributeTest - Configuration file is loaded
+[INFO ] 2021-02-27 15:58:53.359 [main] verifyContributeTest - Contribute tab is present..
+[INFO ] 2021-02-27 15:58:53.359 [main] verifyContributeTest - Contribute tab is present..
+[INFO ] 2021-02-27 15:58:53.360 [main] verifyContributeTest - Passed
+[INFO ] 2021-02-27 15:58:53.360 [main] verifyContributeTest - Passed
+[INFO ] 2021-02-27 15:58:53.360 [main] verifyContributeTest - test time: 30324
+[INFO ] 2021-02-27 15:58:53.360 [main] verifyContributeTest - test time: 30324
+[INFO ] 2021-02-27 15:58:54.514 [main] Suite - ******Suite Completed********
+[INFO ] 2021-02-27 16:03:07.893 [main] Suite - ********Suite Started********
+[INFO ] 2021-02-27 16:03:08.003 [main] verifyContributeTest - ********Started*******
+[INFO ] 2021-02-27 16:03:08.003 [main] verifyContributeTest - ********Started*******
+[INFO ] 2021-02-27 16:03:20.199 [main] verifyContributeTest - Configuration file to be loaded
+[INFO ] 2021-02-27 16:03:20.199 [main] verifyContributeTest - Configuration file to be loaded
+[INFO ] 2021-02-27 16:03:20.199 [main] verifyContributeTest - Configuration file is loaded
+[INFO ] 2021-02-27 16:03:20.199 [main] verifyContributeTest - Configuration file is loaded
+[INFO ] 2021-02-27 16:03:20.200 [main] verifyContributeTest - Contribute tab is present..
+[INFO ] 2021-02-27 16:03:20.200 [main] verifyContributeTest - Contribute tab is present..
+[INFO ] 2021-02-27 16:03:20.200 [main] verifyContributeTest - Passed
+[INFO ] 2021-02-27 16:03:20.200 [main] verifyContributeTest - Passed
+[INFO ] 2021-02-27 16:03:20.200 [main] verifyContributeTest - test time: 12205
+[INFO ] 2021-02-27 16:03:20.200 [main] verifyContributeTest - test time: 12205
+[INFO ] 2021-02-27 16:03:21.003 [main] Suite - ******Suite Completed********
+[INFO ] 2021-02-27 16:07:36.282 [main] Suite - ********Suite Started********
+[INFO ] 2021-02-27 16:07:36.416 [main] verifyContributeTest - ********Started*******
+[INFO ] 2021-02-27 16:07:50.202 [main] verifyContributeTest - Configuration file to be loaded
+[INFO ] 2021-02-27 16:07:50.202 [main] verifyContributeTest - Configuration file is loaded
+[INFO ] 2021-02-27 16:07:50.202 [main] verifyContributeTest - Contribute tab is present..
+[INFO ] 2021-02-27 16:07:50.203 [main] verifyContributeTest - Passed
+[INFO ] 2021-02-27 16:07:50.203 [main] verifyContributeTest - test time: 13803
+[INFO ] 2021-02-27 16:07:51.015 [main] Suite - ******Suite Completed********

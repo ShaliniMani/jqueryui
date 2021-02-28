@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+  <listener class-name="com.home.demo.utils.TestLogListener" />
+  <listener class-name="com.home.demo.utils.RetryFailedTests" />
+</listeners>
+ <test thread-count="1" name="Test">
+  
+  <packages>
+    <package name="com.home.demo.test"/>
+    
+   </packages>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
