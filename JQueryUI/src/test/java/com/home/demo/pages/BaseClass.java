@@ -37,4 +37,12 @@ public class BaseClass{
   {
 	  driver.get(Configurator.getInstance().getProperties(url));
   }
+  public void elementToClick(WebElement element,WebDriver driver)
+  {
+	  elementDisplayed(element);
+	  
+	  
+		  element.click();
+	  
+  }
  }
